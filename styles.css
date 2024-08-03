@@ -18,8 +18,15 @@ body {
 h2 {
     text-align: center;
     padding: 10px;
-    color: aliceblue;
+    color: rgb(0, 55, 102);
     border-style: solid;
     border-color: green;
+    margin-right: auto;
+}
+
+img {
+    border-radius: 50px;
+    height: 250px;
+    margin-left: auto;
     margin-right: auto;
 }
