@@ -68,8 +68,9 @@ img {
     text-align: center;
     background-color: rgb(102, 106, 110);
     padding-bottom: 100px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
     
 }
 
@@ -87,3 +88,14 @@ img {
     margin-top: 100px;
 }
 
+
+.footer {
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+    color: rgb(213, 216, 216);
+}
+
+.footer:hover {
+    background-color: black;
+}
